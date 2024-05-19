@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "stdexcept": "cpp"
     }
 }
